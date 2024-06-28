@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Happy Birthday</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            margin: 0;
+            background-image: url('https://pixnio.com/free-images/2017/12/04/2017-12-04-07-02-11.jpg');
+            background-size: cover;
+            background-position: center;
+        }
+        .message {
+            text-align: center;
+            padding: 20px;
+            background-color: rgba(255, 248, 220, 0.8);
+            border-radius: 10px;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+        }
+        .message h1 {
+            color: #d2691e;
+            font-size: 3em;
+        }
+    </style>
+</head>
+<body>
+    <div class="message">
+        <h1>Happy Birthday Grossmama Gret!</h1>
+        <p>Wir wünschen dir alles Gute und viel Gesundheit!</p>
+    </div>
+</body>
+</html>
